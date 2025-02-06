@@ -23,7 +23,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1iBhIuI7x-qHFyhmEeMlnn6Vo_rQ0n2hK/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1Sgcu0CPWHEM3Gr-snd6QkA8yp91G7Dwj/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -257,7 +257,8 @@ const achievementSection = {
 const resumeSection = {
   title: "Resume",
   subtitle: "Feel free to download my resume",
-
+  resumeLink:
+    "https://drive.google.com/file/d/1Sgcu0CPWHEM3Gr-snd6QkA8yp91G7Dwj/view?usp=sharing",
   // Please Provide with Your Podcast embeded Link
   display: true // Set false to hide this section, defaults to true
 };
